@@ -1,0 +1,13 @@
+/temp
+/vendor
+/configs
+
+!**.example
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea
+.vscode
